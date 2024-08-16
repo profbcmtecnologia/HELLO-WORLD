@@ -9,10 +9,18 @@ body {
     text-align: center;
 }
 
-header{
+header {
     border-bottom: 2px solid gray;
 }
 
-footer{
+footer {
     border-top: 2px solid gray;
+}
+
+#nome-usuário {
+    font-weight: bold;
+}
+
+.texto-inglês {
+    font-style: italic;
 }
